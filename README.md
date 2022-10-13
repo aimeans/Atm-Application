@@ -21,7 +21,18 @@ Libraries used:
 Open up your gitbash terminal and navigate to the location of the program files and activate your dev environment, after doing so open up jupyter labs by typing jupyter lab in gitbash.
 
 ## Highlights
- 
+--- 
 near-term forecast for the popularity of MercadoLibre?
 
 !['Nearterm Forcast'](readme_images/neartermforcast.png)
+
+---
+
+## Contributors
+
+Created by Austin Means while in the UW FinTech Bootcamp
+> Contact Info:
+> email: austinmeans92@gmail.com|
+> 
+> [GitHub] (https://github.com/aimeans) |
+> 
